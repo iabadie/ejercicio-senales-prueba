@@ -16,3 +16,7 @@ texture = ExtResource("1")
 
 [node name="Collision" type="CollisionShape2D" parent="." unique_id=628589574]
 shape = SubResource("1")
+
+[node name="Ancla" type="Control" parent="." unique_id=1123419144]
+layout_mode = 3
+anchors_preset = 0
